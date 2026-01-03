@@ -187,6 +187,7 @@ This project uses the public Titanic dataset from Kaggle.
 ## 👤 Author
 
 Created as part of exploratory data analysis training and learning.
+Student  : Sandesh Bhatta 
 
 ---
 
